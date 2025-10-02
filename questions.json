@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "tema": "Vida Digital e Ética",
+    "pergunta": "📱 Você vê um amigo sendo zoado nas redes sociais. Qual seria a atitude mais próxima do que Jesus faria?",
+    "opcoes": [
+      "Curtir o meme ou o comentário, afinal é só uma brincadeira na internet.",
+      "Ignorar, pois não é problema seu e você não quer se envolver em confusão.",
+      "Defender publicamente o amigo e denunciar o bullying.",
+      "Chamar o amigo no privado para dizer que sente muito, mas não fazer nada publicamente."
+    ],
+    "correta": 2,
+    "base_biblica": "Jesus se colocaria ao lado dos marginalizados. Ele defende os que são humilhados (João 8 - mulher adúltera). Curar a indiferença é um ato de amor."
+  },
+  {
+    "id": 2,
+    "tema": "Vida Digital e Ética",
+    "pergunta": "👥 Um colega te chama pra um rolê que envolve bebida excessiva e atitudes erradas. O que Jesus te ensinaria a fazer?",
+    "opcoes": [
+      "Aceitar para evangelizar o grupo por dentro e mostrar que cristãos também se divertem.",
+      "Recusar educadamente, afirmando sua posição, mas mantendo a porta aberta para amizade em outro contexto.",
+      "Negociar: aceitar ir, mas prometer a si mesmo que não vai participar de nada errado.",
+      "Recusar e aproveitar para dar uma bronca no amigo sobre o caminho errado que ele está seguindo."
+    ],
+    "correta": 1,
+    "base_biblica": "Jesus não se afastava dos pecadores, mas não participava do pecado. Ele estaria no meio, mas com propósito — como luz e não como sombra (Mateus 9:12-13)."
+  },
+  {
+    "id": 3,
+    "tema": "Vida Digital e Ética",
+    "pergunta": "💬 Alguém fala mal de outro colega perto de você. Qual atitude está mais alinhada ao ensinamento de Jesus?",
+    "opcoes": [
+      "Entrar na conversa para dar sua opinião e validar o que está sendo dito, já que você concorda em parte.",
+      "Mudar de assunto bruscamente, sem dar abertura para o colega continuar, mas sem confrontar.",
+      "Ignorar e se afastar, pois não é seu papel cuidar da vida dos outros.",
+      "Confrontar a fofoca com sabedoria, promovendo a reconciliação e defendendo a ausência."
+    ],
+    "correta": 3,
+    "base_biblica": "Jesus ensinou que da boca sai o que está cheio o coração (Lucas 6:45). Ele promoveria a reconciliação, jamais a fofoca."
+  },
+  {
+    "id": 4,
+    "tema": "Integridade e Relacionamentos",
+    "pergunta": "💔 Você descobre que seu amigo está em pecado escondido. O que Jesus te ensinaria a fazer?",
+    "opcoes": [
+      "Expor o pecado para os líderes da igreja/grupo, pois ele precisa de ajuda urgente.",
+      "Orar por ele e esperar que Deus o confronte, sem se envolver diretamente.",
+      "Ignorar, pois a salvação é individual e cada um deve lidar com seus problemas.",
+      "Conversar em particular com ele, em amor e com empatia, para ajudá-lo a se restaurar."
+    ],
+    "correta": 3,
+    "base_biblica": "Jesus confrontava com verdade e amor. O caminho é conversar em particular (Mateus 18:15), com empatia e sem julgamento."
+  },
+  {
+    "id": 5,
+    "tema": "Integridade e Relacionamentos",
+    "pergunta": "🤖 Você pode colar em uma prova usando o celular. Ninguém vai perceber. O que Jesus faria?",
+    "opcoes": [
+      "Colaria, afinal, o importante é a nota e você estudou, só está garantindo.",
+      "Não colaria, mas contaria para um amigo que é possível, testando sua integridade.",
+      "Manteria a integridade e faria a prova apenas com o que aprendeu.",
+      "Não colaria, mas ficaria tentado, orando a Deus para que a prova acabe logo."
+    ],
+    "correta": 2,
+    "base_biblica": "Ele nos chama para sermos fiéis no pouco (Lucas 16:10). Integridade é fazer o certo mesmo sem ser visto."
+  },
+  {
+    "id": 6,
+    "tema": "Integridade e Relacionamentos",
+    "pergunta": "😡 Alguém te ofende na frente de todos. O que a Palavra de Jesus nos ensina a fazer neste momento?",
+    "opcoes": [
+      "Responder à altura para que a pessoa aprenda a te respeitar.",
+      "Perdoar a ofensa imediatamente e não deixar a mágoa criar raízes.",
+      "Ignorar no momento, mas planejar a vingança de forma sutil para não ser descoberto.",
+      "Responder com uma ofensa religiosa, citando um versículo que a condene."
+    ],
+    "correta": 1,
+    "base_biblica": "Jesus perdoou mesmo na cruz (Lucas 23:34). A força está no controle, não na vingança. Ele ensinaria a quebrar o ciclo da violência."
+  },
+  {
+    "id": 7,
+    "tema": "Foco e Prioridades",
+    "pergunta": "🎧 Você consome músicas, filmes e conteúdos que falam de ódio, sensualidade e orgulho. Jesus diria que isso importa por quê?",
+    "opcoes": [
+      "Não importa, desde que você não pratique o que ouve ou assiste. A mente é livre.",
+      "É perigoso, mas a intenção pura de não pecar anula a influência do conteúdo.",
+      "O que entra pelos seus olhos e ouvidos influencia o que sai, e impacta sua santidade.",
+      "Isso só importa se você for um líder ou uma pessoa mais velha na fé."
+    ],
+    "correta": 2,
+    "base_biblica": "Jesus diria: “Os olhos são a lâmpada do corpo” (Mateus 6:22). O que entra influencia o que sai. Santidade começa pelo que alimenta a mente."
+  },
+  {
+    "id": 8,
+    "tema": "Foco e Prioridades",
+    "pergunta": "🏳️‍🌈 Um colega LGBT se aproxima de você querendo amizade. Qual seria a atitude mais próxima do exemplo de Jesus?",
+    "opcoes": [
+      "Afastar-se gentilmente, pois você não pode ter amizades que te levem para o erro.",
+      "Acolher a pessoa com amor, buscando construir um relacionamento antes de qualquer pregação.",
+      "Fazer uma pregação instantânea, tentando \"evangelizá-lo\" para que ele mude de vida.",
+      "Aceitar a amizade, mas com a condição de que ele não fale sobre suas escolhas."
+    ],
+    "correta": 1,
+    "base_biblica": "Jesus jamais recusou pessoas por sua condição. Ele acolheu, amou e ofereceu transformação (João 4 - mulher samaritana). Relacionamento vem antes da mudança."
+  },
+  {
+    "id": 9,
+    "tema": "Foco e Prioridades",
+    "pergunta": "🙌 Na igreja, ninguém te dá atenção. Você pensa em parar de ir. O que Jesus te ensina nesse cenário?",
+    "opcoes": [
+      "Desistir e procurar um grupo de amigos mais acolhedor em outro lugar.",
+      "Continuar a missão, servindo e sendo a resposta que você gostaria de receber.",
+      "Reclamar com o pastor ou líder para que eles mudem o comportamento das pessoas.",
+      "Tornar-se um frequentador silencioso, sem interagir com ninguém, para evitar rejeição."
+    ],
+    "correta": 1,
+    "base_biblica": "Jesus não foi aceito pelos seus (João 1:11), mas não desistiu da missão. Ele nos ensina a sermos resposta, mesmo na rejeição."
+  },
+  {
+    "id": 10,
+    "tema": "Foco e Prioridades",
+    "pergunta": "🕹️ Você passa horas em jogos, redes e entretenimento, mas não ora nem lê a Bíblia. Qual seria a análise de Jesus?",
+    "opcoes": [
+      "Isso não tem problema, pois Deus entende que você precisa de lazer para ser feliz.",
+      "O desequilíbrio no tempo é sintoma de que seu coração está priorizando o tesouro errado.",
+      "Isso só é um problema se você for um pregador ou líder de ministério.",
+      "Você deve parar totalmente com o entretenimento e dedicar todo o tempo à Bíblia e oração."
+    ],
+    "correta": 1,
+    "base_biblica": "Jesus diria: “Onde está seu tesouro, ali está seu coração” (Mateus 6:21). O desequilíbrio espiritual é sintoma de prioridades erradas."
+  },
+  {
+    "id": 11,
+    "tema": "Generosidade e Fé",
+    "pergunta": "💸 Você quer muito um tênis novo, mas vê alguém com necessidade. O que Jesus elogiaria mais?",
+    "opcoes": [
+      "Comprar o tênis, pois você trabalhou por ele e é importante ter coisas de qualidade.",
+      "Dar uma pequena oferta à pessoa necessitada e comprar o tênis.",
+      "Abrir mão do luxo e ser generoso, priorizando a necessidade do próximo.",
+      "Orar pela pessoa necessitada, pedindo para que Deus a ajude a ter seu próprio tênis."
+    ],
+    "correta": 2,
+    "base_biblica": "Jesus elogiou a viúva que deu do pouco (Marcos 12:41-44). Generosidade pesa mais que luxo."
+  },
+  {
+    "id": 12,
+    "tema": "Generosidade e Fé",
+    "pergunta": "🤯 Você tem dúvidas sobre sua fé e sente que ninguém entende. Jesus se afastaria ou se aproximaria?",
+    "opcoes": [
+      "Ele se afastaria, pois a dúvida é falta de fé e o desagrada.",
+      "Ele esperaria você ter certeza de tudo para se manifestar.",
+      "Ele te repreenderia por ter a mesma dúvida que Tomé teve.",
+      "Ele se aproximaria, acolhendo a sua dúvida e fortalecendo sua fé com graça."
+    ],
+    "correta": 3,
+    "base_biblica": "Jesus acolheu Tomé em sua dúvida (João 20:27). Ele não cancela os fracos — fortalece com graça."
+  },
+  {
+    "id": 13,
+    "tema": "Generosidade e Fé",
+    "pergunta": "💑 Você quer namorar, mas sabe que ainda não tem maturidade espiritual. O que Jesus ensina sobre esse tempo?",
+    "opcoes": [
+      "Forçar o namoro e começar a aprender a ter maturidade junto com a pessoa.",
+      "Começar a orar intensamente, pedindo um milagre de maturidade instantânea.",
+      "Valorizar o tempo certo, esperar e se dedicar ao amadurecimento pessoal e espiritual.",
+      "Namorar escondido para ninguém te julgar, e só depois falar que está maduro."
+    ],
+    "correta": 2,
+    "base_biblica": "Jesus esperou 30 anos para começar seu ministério. Ele ensinaria o valor do tempo certo para tudo (Eclesiastes 3:1)."
+  },
+  {
+    "id": 14,
+    "tema": "Generosidade e Fé",
+    "pergunta": "🙏 Você ora, mas sente que Deus não responde do jeito que espera. Qual seria a lição de Jesus nessa situação?",
+    "opcoes": [
+      "Parar de orar, pois a oração é ineficaz se não há resposta rápida.",
+      "Orar mais alto e exigir uma resposta, pois Deus deve atender à sua necessidade.",
+      "A oração é sobre conexão e submissão, não sobre controlar a vontade de Deus.",
+      "Mudar a oração para que ela seja apenas de gratidão, sem pedir mais nada."
+    ],
+    "correta": 2,
+    "base_biblica": "No Getsêmani, Jesus orou intensamente (Lucas 22:44) mesmo sem mudar a cruz. Ele nos mostra que oração é conexão, não controle."
+  },
+  {
+    "id": 15,
+    "tema": "Generosidade e Fé",
+    "pergunta": "😔 Você pecou e se sente indigno de voltar pra Deus. Jesus te aceitaria?",
+    "opcoes": [
+      "Ele te aceitaria, mas só depois de você fazer uma penitência e sofrer o suficiente.",
+      "Ele esperaria que você resolvesse seu problema sozinho antes de procurá-lo.",
+      "Sim, o arrependimento sincero sempre abre caminho para o recomeço e o perdão.",
+      "Sim, mas ele exigiria que você nunca mais pecasse, pois seria a última chance."
+    ],
+    "correta": 2,
+    "base_biblica": "Jesus contou a parábola do filho pródigo (Lucas 15) pra te lembrar: arrependimento abre caminho pra recomeço."
+  }
+]
